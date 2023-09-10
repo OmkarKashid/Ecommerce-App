@@ -32,5 +32,8 @@
       "not dead",
       "not ie <= 11",
       "not op_mini all"
-    ]
+    ],
+    "resolutions": {
+        "react-refresh": "^0.12.0"
+    }
   }
