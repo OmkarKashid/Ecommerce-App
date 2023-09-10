@@ -4,7 +4,7 @@ function LogoTitle() {
     <>
       <span className="logo">
         <h2 className="logo-img">S </h2>
-        <h3 className="logo-title">SuperCool Shopping</h3>
+        <h3 className="logo-title">Shopper's Buy</h3>
       </span>
     </>
   );
