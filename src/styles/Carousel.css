@@ -1,0 +1,36 @@
+.carousel {
+    margin-bottom: 20px;
+  }
+  .carousel-title {
+    font-weight: bold;
+    font-size: 30px;
+    margin-bottom: 20px;
+  }
+  .carousel-content {
+    background-color: white;
+    border-style: ridge;
+    border-radius: 5px;
+    border-color: rgb(243, 35, 8);
+  }
+  .carousel-flex {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 200px;
+    padding-top: 20px;
+  }
+  .carousel-img {
+    width: 150px;
+    height: 150px;
+  }
+  .carousel-text {
+    padding-bottom: 20px;
+    font-weight: bold;
+  }
+  .carousel-btn {
+    color: rgb(243, 35, 8);
+    font-size: 2rem;
+    background-color: rgba(255, 232, 127, 0.014);
+    border-style: none;
+  }
+  

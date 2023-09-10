@@ -1,0 +1,33 @@
+.footer {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    margin-left: -10px;
+    margin-right: -8px;
+    margin-bottom: -10px;
+    background-color: rgb(26, 25, 23);
+    color: rgb(250, 241, 241);
+    height: 100px;
+  
+    position: absolute;
+    width: calc(100% + 17px);
+    bottom: 0;
+    height: 7rem;
+  }
+  .footer-links {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 15px;
+    margin-bottom: 25px;
+  }
+  .footer-link {
+    color: rgb(250, 241, 241);
+    text-decoration: none;
+  }
+  .footer-link:hover {
+    color: rgb(0, 204, 255);
+  }
+  .footer-text {
+    text-align: center;
+  }
+  

@@ -1,0 +1,36 @@
+.product-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: white;
+    border-style: ridge;
+    border-width: 3px;
+    border-radius: 5px;
+    border-color: rgb(243, 35, 8);
+    padding: 15px 20px;
+    margin-bottom: 20px;
+  }
+  .product-img {
+    width: 200px;
+    height: 200px;
+  }
+  .product-text {
+    max-width: 600px;
+  }
+  .product-title {
+    font-size: 1.5rem;
+  }
+  .product-rating {
+    font-size: 1.2rem;
+  }
+  .product-price {
+    font-size: 1.3rem;
+  }
+  .product-description {
+    font-size: 1.1rem;
+  }
+  .not-found {
+    text-align: center;
+  }
+  

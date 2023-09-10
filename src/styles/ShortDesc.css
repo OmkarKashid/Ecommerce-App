@@ -1,0 +1,35 @@
+.shortDesc {
+    color: white;
+    margin-bottom: 10px;
+    font-size: 23px;
+    padding: 15px;
+    padding-bottom: 40px;
+    margin-left: -10px;
+    margin-right: -8px;
+    background-color: #1e1e27;
+    opacity: 1;
+    background: radial-gradient(
+        circle,
+        transparent 20%,
+        #1e1e27 20%,
+        #1e1e27 80%,
+        transparent 80%,
+        transparent
+      ),
+      radial-gradient(
+          circle,
+          transparent 20%,
+          #1e1e27 20%,
+          #1e1e27 80%,
+          transparent 80%,
+          transparent
+        )
+        25px 25px,
+      linear-gradient(#09090c 2px, transparent 2px) 0 -1px,
+      linear-gradient(90deg, #09090c 2px, #1e1e27 2px) -1px 0;
+    background-size: 50px 50px, 50px 50px, 25px 25px, 25px 25px;
+  }
+  .shortDesc-title {
+    font-size: 30px;
+  }
+  

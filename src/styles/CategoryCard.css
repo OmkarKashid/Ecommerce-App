@@ -1,0 +1,18 @@
+.category-card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color: white;
+    width: max(100px, 20vw);
+    height: 100px;
+    margin-bottom: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+    border-style: ridge;
+    border-radius: 10px;
+    border-color: rgb(243, 35, 8);
+  }
+  .category-title {
+    font-weight: bold;
+  }
